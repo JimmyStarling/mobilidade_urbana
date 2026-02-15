@@ -1,6 +1,6 @@
 # Mobilidade Urbana
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JimmyStarling/mobilidade_urbana/blob/main/MobilidadeUrbana.ipynb)
+Full-version at [Kaggle](https://www.kaggle.com/code/jimmystarling/study-case-for-urban-brazilian-mobility-2010)
 
 ## 🔍 Overview
 This project analyzes urban mobility trends using public datasets from Brazil. The aim is to identify transportation gaps, predict travel behavior, and support smarter planning.
